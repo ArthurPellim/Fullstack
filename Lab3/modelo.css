@@ -1,0 +1,91 @@
+.div1{
+   background-color:rgb(248, 229, 204);
+   /*top:auto;
+   left:auto; 
+   width:20px; 
+   height:20px; */
+   border:2px;
+   border-color:blue;
+   border-style:solid;
+   display: flex;
+   justify-content: space-between; 
+   align-items: center;
+   color:Green;
+   font-size:30px;
+
+}
+body{
+    background-color:rgb(231, 231, 255);
+}
+
+.div2{
+    background-color:rgb(155, 238, 253);
+    /*top:auto;
+    left:auto; 
+    width:20px; 
+    height:20px; */
+    border:2px;
+    border-style:hidden;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    position:relative;
+    font-size:20px;
+    color:rgb(110, 0, 0)
+
+}
+a{ color:rgb(163, 2, 2);
+    text-decoration:none;
+
+}
+.intro{
+    text-align:center;
+    color:black;
+    font-size:40px;
+}
+p{
+    font: Sans-serif;
+    font-size:20pt;
+    color:rgb(128, 0, 128);
+    text-align:justify;
+    padding-left: 10%;
+    padding-right:10%
+}
+.livros{
+    text-align:center;
+    color:black;
+    font-size:40px;
+}
+.div3{
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    position:relative; 
+}
+.FEI{
+    text-align:center;
+    color:black;
+    font-size:40px;
+}
+.iframes{
+    display: flex; 
+    align-items: center;
+    position:relative;
+    justify-content:space-evenly;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.table{
+    border-style:dashed;
+    border-color:red;
+    border-width:2px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 30%;
+}
+.contatos{
+    text-align:center;
+    color:black;
+    font-size:40px;
+}
