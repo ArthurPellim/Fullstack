@@ -1,0 +1,96 @@
+.paginas{
+    color:#00bFFF
+}
+
+a:hover{
+    color:lawngreen
+}
+body{
+    background-image:radial-gradient(#00bFFF, #9932cc )
+}
+.paragrafo{
+    display: flex;
+    font-size: 20px;
+    font-style: italic;
+    align-items:center;
+    flex-direction:column;
+      
+}
+.lista{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    justify-items: center;
+}
+
+.imgswim{
+    width:350px; 
+    height:200px;
+    border-radius: 8px;
+}
+
+.imgfood{
+    width:350px; 
+    height:200px;
+    border-radius: 8px;
+}
+
+.imgcar{
+    width:350px; 
+    height:200px;
+    border-radius: 8px;
+}
+
+.imggame{
+    width:350px; 
+    height:200px;
+    border-radius: 8px;
+}
+.swim{
+    width:400px; 
+    height:250px;
+    color:#000000
+
+}
+.car{
+    width:400px; 
+    height:250px;
+    color:#000000
+}
+.game{
+    width:400px; 
+    height:250px;
+    color:#000000
+}
+.food{
+    width:400px; 
+    height:250px;
+    color:#000000
+}
+.coisas{
+    display: flex;
+    justify-content: center;
+}
+.projpage{
+    color:aqua;
+
+}
+.indexpage{
+    color:aqua;
+
+}
+.titlebio{
+    display: flex;
+    color:aqua;
+    font-size:50px;
+    justify-content:center;
+
+}
+.divpage{
+    height: 200px;
+    width: 100%;
+    background-color: royalblue;
+    border-style:groove;
+    border-radius: 4px;
+    border-color:darkblue
+}
