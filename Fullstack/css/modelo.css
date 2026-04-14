@@ -1,0 +1,117 @@
+body{
+    background-color: lightgray;
+}
+.cabecalho{
+    display: flex;
+    border-radius:3px;
+    border-color: blue;
+    background-color: bisque;
+    justify-content: space-between;
+    border-style: solid;
+    font-size: 30px;
+    color:darkgreen;
+    align-items: center;
+    height: 150px;
+}
+.links{
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+}
+a:hover{
+    color:white
+    
+}
+a{
+    color:darkred;
+    text-decoration: none;  
+}
+.introducao{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size:20pt;
+    color:indigo;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.title1{
+    display: flex;
+    justify-content: center;
+
+}
+.livros{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.title2{
+    display: flex;
+    justify-content: center;
+}
+.title3{
+    display: flex;
+    justify-content: center;
+}
+.iframes{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.youtube{
+    height: 250px;
+    width: 250px;
+}
+.maps{
+    height: 250px;
+    width: 250px;
+}
+.tabela{
+    border-radius: 3px;
+    border-style: dashed;
+    border-color: red;
+    width: 500px;
+
+}
+td{
+    color:black;
+    border-color: red;
+    border-radius: 2px;
+    border-style: solid;
+}
+.table{
+    display: flex;
+    justify-content: center;
+}
+th{
+    color: red;
+    border-color: red;
+    border-radius: 2px;
+    border-style: solid;
+}
+.w3{
+    background-color: yellow;
+    width: 500px;
+    height: 150px;
+    flex-direction: column;
+    display: flex;
+    margin: 0 auto;
+}
+.title4{
+    display: flex;
+    justify-content: center;
+}
+.fim{
+    display: flex;
+    border-radius:3px;
+    background-color: bisque;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 15pt;
+    height: 120px;
+}
