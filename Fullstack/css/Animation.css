@@ -1,6 +1,6 @@
 #canvas{
     display: flex;
-    background-color:cadetblue;
+background-image:radial-gradient(#00bFFF, #9932cc );
 }
 body{
     display: flex;
